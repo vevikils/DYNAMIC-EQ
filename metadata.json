@@ -1,0 +1,5 @@
+{
+  "name": "VEVI EQ Pro",
+  "description": "A 7-band parametric equalizer user interface, designed with a clean, modern aesthetic inspired by FabFilter plugins. This application provides a visual representation of EQ adjustments and does not process audio or function as a VST3 plugin.",
+  "requestFramePermissions": []
+}
